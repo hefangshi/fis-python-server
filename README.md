@@ -10,5 +10,5 @@
 ## Usage
 
 ```bash
-$ python python\server\server.py
+$ python python/server/server.py
 ```
